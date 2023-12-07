@@ -1,20 +1,20 @@
 #formulario-contenedor, #formulario-contenedor2 {
     background-color: #ffffff; /* Cambia el color de fondo según tus preferencias */
-    padding: 10px; /* Añade relleno al contenedor según sea necesario */
-    border: 1px solid #ccc; /* Añade un borde al contenedor si es necesario */
-    border-radius: 10px;
-    height: 140px; /* Ajusta la altura según sea necesario */
-    margin-top: 30px;
+    padding: 11px; /* Añade relleno al contenedor según sea necesario */
+    border: 2px solid #ccc; /* Añade un borde al contenedor si es necesario */
+    border-radius: 11px;
+    height: 141px; /* Ajusta la altura según sea necesario */
+    margin-top: 31px;
 }
 
 
 #formulario-contenedor2 {
     background-color: #ffffff; /* Cambia el color de fondo según tus preferencias */
-    padding: 10px; /* Añade relleno al contenedor según sea necesario */
-    border: 1px solid #ccc; /* Añade un borde al contenedor si es necesario */
-    border-radius: 10px;
-    height: 140px; /* Ajusta la altura según sea necesario */
-    margin-top: 30px;
+    padding: 11px; /* Añade relleno al contenedor según sea necesario */
+    border: 2px solid #ccc; /* Añade un borde al contenedor si es necesario */
+    border-radius: 11x;
+    height: 141px; /* Ajusta la altura según sea necesario */
+    margin-top: 31px;
 }
 
 #datos {
@@ -22,9 +22,9 @@
 }
 
 #nombre, #apellido {
-    width: 400px; 
-    border-color: rgb(151, 151, 151);
-    margin-bottom: 10px;
+    width: 401px; 
+    border-color: rgb(152, 152, 152);
+    margin-bottom: 11Px;
 
 }
 
@@ -34,49 +34,49 @@
     align-items: baseline;
 }
 .form-field {
-    margin-right: 30px;
-    margin-left: 20px;
+    margin-right: 31px;
+    margin-left: 21px;
 }
 
 #genero {
-    margin-top: 10px;
+    margin-top: 11Px;
 
 }
 #gen {
     width: 400px; 
-    border-color: rgb(151, 151, 151);
-    margin-bottom: 10px;
+    border-color: rgb(152, 152, 152);
+    margin-bottom: 11px;
 
 }
 
 /* Estilos para el botón */
 .custom-btn {
-    border-radius: 5px;
-    padding: 10px 20px;
+    border-radius: 6px;
+    padding: 11px 21px;
     cursor: pointer;
 }
 
 /* Estilos para el botón de éxito */
 .custom-btn.btn-success {
-    background-color: rgb(1, 146, 172);
+    background-color: rgb(8, 10, 67);
     color: white;
-    margin-top: 10px;
-    height:50px ;
-    width:100px ;
+    margin-top: 11px;
+    height:51px ;
+    width:101px ;
     font-weight: bold;
     border: none;
 }
 
 .custom-btn.btn-success:hover {
-    background-color: rgb(5, 116, 136);
+    background-color: rgb(100, 6, 137);
 }
 
 /* Estilos para el botón primario */
 .custom-btn.btn-primary {
-    background-color: rgb(1, 146, 172);
+    background-color: rgb(2, 147, 173);
     color: white;
 }
 
 .custom-btn.btn-primary:hover {
-    background-color:rgb(1, 146, 172);
+    background-color:rgb(2, 147, 173);
 }

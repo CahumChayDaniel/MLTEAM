@@ -1,17 +1,10 @@
 #formulario-contenedor, #formulario-contenedor2 {
-    background-color: #ffffff; /* Color de fondo del contenedor */
-    padding: 20px; /* Espaciado interno para una mejor estética */
-    border: 1px solid #ccc; /* Borde sutil para el contenedor */
-    border-radius: 15px; /* Esquinas redondeadas para un look moderno */
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* Sombra sutil para profundidad */
-    width: 300px; /* Ancho fijo para consistencia en diferentes pantallas */
-    margin: 40px auto; /* Centrado y margen superior para separación de elementos */
-    display: flex; /* Uso de Flexbox para alineación interior */
-    flex-direction: column; /* Elementos internos en columna */
-    align-items: center; /* Centra los elementos internos horizontalmente */
-    justify-content: space-around; /* Distribuye los elementos internos uniformemente */
-    height: auto; /* Altura automática basada en el contenido interno */
-    max-width: 100%; /* Máximo ancho para asegurar responsividad */
+    background-color: #ffffff; /* Cambia el color de fondo según tus preferencias */
+    padding: 10px; /* Añade relleno al contenedor según sea necesario */
+    border: 1px solid #ccc; /* Añade un borde al contenedor si es necesario */
+    border-radius: 10px;
+    height: 140px; /* Ajusta la altura según sea necesario */
+    margin-top: 30px;
 }
 
 #formulario-contenedor2 {

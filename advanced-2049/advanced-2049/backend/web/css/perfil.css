@@ -58,9 +58,9 @@
 
 /* Estilos para el botón de éxito */
 .custom-btn.btn-success {
-    background-color: rgb(8, 10, 67);
-    color: white;
-    margin-top: 11px;
+    background-color: rgb(8, 10, 67); /* SE CAMBIO EL COLOR*/
+    color: white; /* COLOR BLANCO*/
+    margin-top: 12px;
     height:51px ;
     width:101px ;
     font-weight: bold;
